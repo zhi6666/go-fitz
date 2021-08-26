@@ -1,14 +1,14 @@
 ## go-fitz
 [![TravisCI Build Status](https://travis-ci.org/gen2brain/go-fitz.svg?branch=master)](https://travis-ci.org/gen2brain/go-fitz)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/vuuoq9epsd1sa007?svg=true)](https://ci.appveyor.com/project/gen2brain/go-fitz)
-[![GoDoc](https://godoc.org/github.com/gen2brain/go-fitz?status.svg)](https://godoc.org/github.com/gen2brain/go-fitz)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gen2brain/go-fitz?branch=master)](https://goreportcard.com/report/github.com/gen2brain/go-fitz)
+[![GoDoc](https://godoc.org/github.com/zhi6666/go-fitz?status.svg)](https://godoc.org/github.com/zhi6666/go-fitz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zhi6666/go-fitz?branch=master)](https://goreportcard.com/report/github.com/zhi6666/go-fitz)
 
 Go wrapper for [MuPDF](http://mupdf.com/) fitz library that can extract pages from PDF and EPUB documents as images, text, html or svg.
 
 ### Install
 
-    go get -u github.com/gen2brain/go-fitz
+    go get -u github.com/zhi6666/go-fitz
 
 ### Build tags
 
@@ -28,7 +28,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gen2brain/go-fitz"
+	"github.com/zhi6666/go-fitz"
 )
 
 func main() {
