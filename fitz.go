@@ -24,7 +24,6 @@ import (
 
 	_ "github.com/zhi6666/go-fitz/include/mupdf"
 	_ "github.com/zhi6666/go-fitz/include/mupdf/fitz"
-	_ "github.com/zhi6666/go-fitz/libs"
 )
 
 // Errors.
